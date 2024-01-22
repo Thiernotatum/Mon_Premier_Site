@@ -1,6 +1,10 @@
-nav {
-    background-color: rgb(156, 61, 61);
-    font-size: small;
-    list-style: none;
+nav -u{
     display: flex;
+    list-style: none;
+
+}
+nav -a {
+    list-style: none;
+    font-size: 15px;
+    color: white;
 }
