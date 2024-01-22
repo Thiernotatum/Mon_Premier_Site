@@ -1,4 +1,6 @@
 nav {
     background-color: rgb(156, 61, 61);
     font-size: small;
+    list-style: none;
+    display: flex;
 }
